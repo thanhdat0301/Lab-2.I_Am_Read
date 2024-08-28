@@ -1,4 +1,4 @@
-# lab1_i_am_rich
+# i_am_rich
 
 A new Flutter project.
 
